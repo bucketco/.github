@@ -4,7 +4,6 @@ Bucket is feature flagging that's purpose-built for B2B SaaS.
 
 ## Key features
 
-
 ​- **Feature flags for B2B**: features you need in a simple, thoughtfully crafted implementation
 ​- **Feature entitlements**: grant companies access by flipping a switch
 ​- **Feature remote config**: manage feature configuration with ease in one place
